@@ -18,15 +18,10 @@
 
 * [About the Project](#about-the-project)
 * [Built With](#built-with)
-* [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
-* [Usage](#usage)
 * [Roadmap](#roadmap)
 * [Contributing](#contributing)
 * [License](#license)
 * [Authors](#authors)
-* [Acknowledgements](#acknowledgements)
 
 ## About The Project
 
@@ -67,4 +62,4 @@ Distributed under the MIT License. See [LICENSE](https://github.com/TakeMyTrinit
 
 ## Authors
 
-* **TakeMyTrinity** - *Comp Sci Student* - [Shaan Khan](https://github.com/ShaanCoding/)
+* **TakeMyTrinity** - *computer science enthusiast* - [TakeMyTrinity](https://github.com/TakeMyTrinity)
