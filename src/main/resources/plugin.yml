@@ -1,0 +1,5 @@
+name: vatiraskyrun
+main: fr.revoltinvoc.vatiraskyrun.Plugin
+version: 1.0.0
+api-version: 1.15
+author: RevolTinvoC
